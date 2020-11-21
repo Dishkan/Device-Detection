@@ -1,12 +1,4 @@
 <?php
-/**
- * Class    DeviceDetection
- * @package zetsoft\service\mobile
- *
- * @author DilshodKhudoyarov
- *
- * Class file hamma device informatsiyalani chiqarib beradi
- */
 
 namespace zetsoft\service\App\eyuf;
 namespace zetsoft\service\mobile;
